@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/business-listing/static/css/main.afce2eaf.chunk.css",
+    "main.js": "/business-listing/static/js/main.43e72608.chunk.js",
+    "main.js.map": "/business-listing/static/js/main.43e72608.chunk.js.map",
+    "runtime-main.js": "/business-listing/static/js/runtime-main.2357b6c8.js",
+    "runtime-main.js.map": "/business-listing/static/js/runtime-main.2357b6c8.js.map",
+    "static/js/2.16c551c3.chunk.js": "/business-listing/static/js/2.16c551c3.chunk.js",
+    "static/js/2.16c551c3.chunk.js.map": "/business-listing/static/js/2.16c551c3.chunk.js.map",
+    "index.html": "/business-listing/index.html",
+    "precache-manifest.3f74dc12378d57b8de4d1bdc0e8b43cb.js": "/business-listing/precache-manifest.3f74dc12378d57b8de4d1bdc0e8b43cb.js",
+    "service-worker.js": "/business-listing/service-worker.js",
+    "static/css/main.afce2eaf.chunk.css.map": "/business-listing/static/css/main.afce2eaf.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2357b6c8.js",
+    "static/js/2.16c551c3.chunk.js",
+    "static/css/main.afce2eaf.chunk.css",
+    "static/js/main.43e72608.chunk.js"
+  ]
+}
