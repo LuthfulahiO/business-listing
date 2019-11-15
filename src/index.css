@@ -11,3 +11,7 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+.side-item, .side-item:hover,.side-item:focus, .side-item:visited {
+  text-decoration: none;
+  color:#000;
+}
