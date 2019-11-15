@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Business Lisiting
+
+A simple react app built with material-ui that allows you view and create business.
+
+data is currently being persisted with localStorage here is a link to the api project in progress. [https://github.com/LuthfulahiO/business-listing-api](https://github.com/LuthfulahiO/business-listing-api)
 
 ## Available Scripts
 
